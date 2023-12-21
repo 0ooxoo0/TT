@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\source\repos\TT\TT\bin\Debug\TT.exe.config
+C:\Users\Дмитрий\source\repos\TT\TT\bin\Debug\TT.exe
+C:\Users\Дмитрий\source\repos\TT\TT\bin\Debug\TT.pdb
+C:\Users\Дмитрий\source\repos\TT\TT\obj\Debug\TT.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\TT\TT\obj\Debug\TT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\source\repos\TT\TT\obj\Debug\TT.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\TT\TT\obj\Debug\TT.exe
+C:\Users\Дмитрий\source\repos\TT\TT\obj\Debug\TT.pdb
